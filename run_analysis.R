@@ -1,6 +1,6 @@
 ## COURSE PROJECT GETTING AND CLEANING DATA
 
-## creating a Data folder, if it hasn"t existed yet
+## creating a Data folder, if it hasn't existed yet
 if(!file.exists("data")){dir.create("data")}
 
 ## downloading the data from internet
